@@ -42,6 +42,8 @@
 //= require jsdiff/diff.js
 //= require main_image.js
 //= require restful_typeahead.js
+//= require typeahead.js/dist/typeahead.jquery.js
+//= require typeahead.js/dist/bloodhound.js
 //= require users.js
 //= require searchform.js
 //= require tagging.js
